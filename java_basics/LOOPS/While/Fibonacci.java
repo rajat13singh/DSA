@@ -7,7 +7,7 @@ public class Fibonacci {
     System.out.print(b);
     while(count>0){
         int c=a+b;
-        System.out.print(c+"");
+        System.out.print(c);
         a=b;
         b=c;
         count--;
